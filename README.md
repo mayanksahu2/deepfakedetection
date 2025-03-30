@@ -1,0 +1,1 @@
+its my deepfake/ai image detection using image processing technique.
